@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 import time
 
-#cgrome or chromium setup
+#chrome or chromium setup
 driver = webdriver.Chrome()
 driver.maximize_window()
 
@@ -34,3 +34,4 @@ try:
 finally:
     time.sleep(3)
     driver.quit()
+
