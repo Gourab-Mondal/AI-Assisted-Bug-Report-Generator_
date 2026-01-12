@@ -112,8 +112,8 @@ The script:
 
 1. Clone the repository
 ```
-git clone <your-github-repo-url>
-cd sauce-login-test
+git clone https://github.com/Gourab-Mondal/AI-Assisted-Bug-Report-Generator_
+cd ai-assisted-bug-report-generator_
 ```
 2. Install dependencies
 ```
